@@ -4,7 +4,7 @@
 
 **Client Name:** [Insert client name here]
 
-**Freelancer Name:** Eman Ashraf
+**Freelancer Name:** [Freelancer Name]
 
 **Date:** [Insert date here]
 
