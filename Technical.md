@@ -3,6 +3,7 @@
 **Applicant:** [Freelancer Name]
 
 **Position:** PHP Laravel Developer (Remote)
+
 **Scope of Work:** Development of admin panels and internal systems using Laravel (9/10) with FilamentPHP or Laravel Nova. Tasks include database design (MySQL), building dynamic interfaces, API integration, handling Laravel Queues, Events, Jobs, and writing clean, maintainable code.
 
 **Proposed Monthly Rate:** USD 500
